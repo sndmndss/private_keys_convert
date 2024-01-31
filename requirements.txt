@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.2
+cytoolz==0.12.2
+eth-hash==0.6.0
+eth-keys==0.5.0
+eth-typing==4.0.0
+eth-utils==3.0.0
+pycryptodome==3.20.0
+pysha3==1.0.2
+soupsieve==2.5
+toolz==0.12.0
